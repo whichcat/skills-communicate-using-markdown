@@ -13,3 +13,7 @@ cat = Cat()
 cat.purr()
 cat = "cat"
 ```
+- [x] Make a task list
+- [ ] commit my changes
+- [ ] push my pr
+- [ ] merge branches
